@@ -1,0 +1,10 @@
+site_name: Law Firm Contact Page Checklist
+site_description: What a law firm contact page needs so visitors actually call, book or send the form, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-contact-page-checklist.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Contact page checklist: index.md
+markdown_extensions:
+  - tables
